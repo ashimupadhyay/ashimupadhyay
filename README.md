@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently Learning: OOP<br>🚀 Projects: .......<br>🛠️ Skills: C , C++<br>✨Working on : coding ,  Photoshop<br>💬 Ask me about: <br>🌍 Let's Connect: ashimupadhyay22@gmail.com,
+🌱 Currently Learning: OOP<br>🚀 Projects: .......<br>🛠️ Skills: C , C++<br>✨Working on : coding ,  Photoshop<br>💬 Ask me about: <br>🌍 Let's Connect: ashimupadhyay22@gmail.com
 
 
 ## 🌐 Socials:
