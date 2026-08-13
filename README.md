@@ -24,10 +24,6 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-%2300A86B.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%236C63FF.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-%23FF6F00.svg?style=for-the-badge&logo=testrail&logoColor=white)
-![Bug Tracking](https://img.shields.io/badge/Bug%20Tracking-%23D32F2F.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-%230078D4.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashim upadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
